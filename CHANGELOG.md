@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.0
+
+### Minor Changes
+
+- c691ead: The title carries Obsidian's `inline-title` class, so Obsidian themes style it.
+
 ## 1.0.2
 
 ### Patch Changes
